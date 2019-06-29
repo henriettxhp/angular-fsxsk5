@@ -1,0 +1,14 @@
+/* Add application styles & imports to this file! */
+
+body {
+  background-color:blue
+}
+
+ #scheibe {
+   width: 300px;
+   position: absolute;
+ }
+ #scheibe2 {
+   width: 300px;
+   position: absolute;
+ }
