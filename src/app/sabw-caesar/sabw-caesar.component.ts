@@ -10,7 +10,7 @@ export class SabwCaesarComponent implements OnInit {
  rotation='rotate(318.5deg)';
 
  dreheScheibe() {
-   console.log("Hallo!");
+   this.rotation='rotate(100deg)';
  }
 
   constructor() { }
