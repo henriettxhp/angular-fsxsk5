@@ -6,6 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./sabw-caesar.component.css']
 })
 export class SabwCaesarComponent implements OnInit {
+ Zahl = 12;
+ rotation='rotate(318.5deg)';
+
+ dreheScheibe() {
+   console.log("Hallo!");
+ }
 
   constructor() { }
 

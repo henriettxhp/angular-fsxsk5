@@ -1,7 +1,7 @@
 /* Add application styles & imports to this file! */
 
 body {
-  background-color:blue
+  background-color:aquamarine;
 }
 
  #scheibe {
@@ -11,4 +11,8 @@ body {
  #scheibe2 {
    width: 300px;
    position: absolute;
+   transform: rotate(318.5deg);
+ }
+ #container {
+   height: 300px;
  }
