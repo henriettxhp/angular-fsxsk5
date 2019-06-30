@@ -1,0 +1,16 @@
+body {
+  background-color:aquamarine;
+}
+
+ #scheibe {
+   width: 300px;
+   position: absolute;
+ }
+ #scheibe2 {
+   width: 300px;
+   position: absolute;
+   transform: rotate(318.5deg);
+ }
+ #container {
+   height: 300px;
+ }
