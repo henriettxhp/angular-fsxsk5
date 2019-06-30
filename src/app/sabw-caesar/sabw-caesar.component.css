@@ -10,6 +10,7 @@ body {
    width: 300px;
    position: absolute;
    transform: rotate(318.5deg);
+   transition: all 2s;
  }
  #container {
    height: 300px;
