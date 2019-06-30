@@ -1,8 +1,4 @@
-body {
-  background-color:aquamarine;
-}
-
- #scheibe {
+#scheibe {
    width: 300px;
    position: absolute;
  }
