@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fermat-test.component.css']
 })
 export class FermatTestComponent implements OnInit {
+  versuchskaninchen: number = 13
+  anzahl: number = 5
+  ergebnis= "noch nicht berechnet..."
 
   constructor() { }
 
